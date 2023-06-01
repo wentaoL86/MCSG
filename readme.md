@@ -1,1 +1,1 @@
-The processing scripts for MCCSD and algorithm code is coming soon
+The processing scripts for MCCS-2023 and algorithm code is coming soon
